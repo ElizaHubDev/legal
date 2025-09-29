@@ -41,7 +41,7 @@ Fatturazione: Gli abbonamenti "Lite", "Premium" e "Diamond" sono a pagamento e s
 
 Rinnovo Automatico: L'abbonamento si rinnoverà automaticamente alla fine di ogni ciclo di fatturazione, a meno che non venga annullato.
 
-Cancellazione: L'utente può annullare il rinnovo automatico del proprio abbonamento in qualsiasi momento dalla sezione "Impostazioni" > "Piani" all'interno dell'app. La cancellazione avrà effetto al termine del periodo di fatturazione in corso; l'utente continuerà ad avere accesso al servizio fino a tale data senza ulteriori addebiti.
+Cancellazione: L'utente può annullare il rinnovo automatico del proprio abbonamento in qualsiasi momento dalla sezione "Impostazioni" > "Piani" all'interno dell'app. La cancellazione avrà effetto immediato e senza possibilità di rimnborso per il periodo restante. Se si desidera annullare  il rinnovo automatico contnuando ad usufruire del Servizio per il tempo restante, si prega di inviare apposita richiesta tramite il modulo CONTATTACI all'interno dell'applicazione.
 
 Rimborsi: Salvo dove richiesto dalla legge, i pagamenti non sono rimborsabili e non sono previsti rimborsi o crediti per periodi di abbonamento parzialmente utilizzati.
 
