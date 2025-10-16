@@ -1,86 +1,81 @@
 Termini e Condizioni di Servizio per ElizaScore
-Data di entrata in vigore: [26-09-2025]
+Data di entrata in vigore: 26-09-2025
 
 Benvenuto in ElizaScore!
+I presenti Termini e Condizioni di Servizio (“Termini”) regolano l’accesso e l’utilizzo dell’applicazione mobile ElizaScore (il “Servizio”), fornita da elizaHUB (“noi”, “ci”).
 
-I presenti Termini e Condizioni di Servizio ("Termini") regolano l'accesso e l'utilizzo dell'applicazione mobile ElizaScore (il "Servizio"), fornita da [elizaHUB] ("noi", "ci").
-
-Leggere attentamente i seguenti Termini prima di utilizzare il Servizio. L'accesso o l'utilizzo del Servizio implica l'accettazione e il rispetto di questi Termini. Se non si è d'accordo con una qualsiasi parte dei termini, non è possibile accedere al Servizio.
+Leggere attentamente i seguenti Termini prima di utilizzare il Servizio. L’accesso o l’utilizzo del Servizio implica l’accettazione e il rispetto di questi Termini. Se non si è d’accordo con una qualsiasi parte dei termini, non è possibile accedere al Servizio.
 
 1. Descrizione del Servizio
+   
+ElizaScore (“l’App”) fornisce risultati sportivi, statistiche e pronostici generati da algoritmi proprietari. Il Servizio è offerto in diversi livelli:
+	
+ •	Free: accesso ai contenuti non soggetti ad abbonamento, con la presenza di annunci pubblicitari.
+	•	Lite: abbonamento a pagamento che rimuove gli annunci pubblicitari.
+	•	Premium: abbonamento a pagamento che rimuove gli annunci pubblicitari e sblocca l’accesso alla sezione pronostici premium.
+	•	Diamond: abbonamento a pagamento che rimuove gli annunci pubblicitari, sblocca l’accesso alla sezione pronostici premium e tutte le analisi soggette a pagamento singolo.
+ 
+•	Analisi Partita: pagamento singolo che consente, senza la sottoscrizione di un abbonamento Premium o Diamond, di accedere all’analisi e al pronostico della singola partita selezionata.
 
-Elizascore ("l'App") fornisce risultati sportivi, statistiche e pronostici generati da algoritmi proprietari. Il Servizio è offerto in diversi livelli:
+Trattamento dei Dati Personali per Acquisti:
 
-Free: Accesso ai contenuti non soggetti ad abbonamento, con la presenza di annunci pubblicitari.
+Per la gestione degli abbonamenti e degli acquisti in-app, ElizaScore utilizza il sistema di acquisti integrato di Google Play. Le informazioni di pagamento e dati personali correlati vengono trattati da Google in conformità alla sua privacy policy. Per maggiori dettagli su come Google gestisce tali dati, l’utente può consultare la Privacy Policy di Google Play.
+elizaHUB non raccoglie né memorizza dati di pagamento in modo diretto, ma potrà trattare dati necessari (limitati al solo indirizzo mail fornito in fase di registrazione) per la gestione del Servizio in conformità alla propria Informativa Privacy, disponibile separatamente.
 
-Lite: Abbonamento a pagamento che rimuove gli annunci pubblicitari.
+3. Registrazione Account
 
-Premium: Abbonamento a pagamento che rimuove gli annunci pubblicitari e sblocca l'accesso alla sezione pronostici premium.
+Per accedere ad alcune funzionalità del Servizio (pronostici) e sottoscrivere un abbonamento (Lite, Premium, Diamond) è necessario creare un account.
 
-Diamond: Abbonamento a pagamento che rimuove gli annunci pubblicitari, sblocca l'accesso alla sezione pronostici premium e sblocca tutte le analisi soggette a pagamento singolo.
-
-Analisi Parita: pagamento singolo che, senza la sottoscrizione di un abbonamento Premium o Diamond da accesso all'analisi e pronostico della singola partita selezionata.
-
-2. Registrazione Account
-
-Per accedere ad alcune funzionalità del Servizio (pronostici) e sottoscrivere un abbonamento (Lite, Premium; Diamond) è necessario creare un account.
-
- L'utente si impegna a:
-
-Fornire informazioni accurate, complete e aggiornate durante la registrazione.
-
-Mantenere la sicurezza della propria password e del proprio account.
-
-Notificarci immediatamente di qualsiasi violazione della sicurezza o uso non autorizzato del proprio account.
-
+L’utente si impegna a:
+	•	fornire informazioni accurate, complete e aggiornate durante la registrazione;
+	•	mantenere la sicurezza della propria password e del proprio account;
+	•	notificarci immediatamente qualsiasi violazione della sicurezza o uso non autorizzato del proprio account.
 Ci riserviamo il diritto di sospendere o chiudere account che violino i presenti Termini.
 
-3. Abbonamenti e Pagamenti
+4. Abbonamenti e Pagamenti
+   
+Gestione degli Acquisti:
+Tutti i pagamenti e le sottoscrizioni agli abbonamenti “Lite”, “Premium”, “Diamond” e agli acquisti singoli (“Analisi Partita”) vengono gestiti direttamente tramite Google Play, attraverso il sistema di acquisti in-app (In-App Billing di Google). Non memorizziamo né gestiamo direttamente dati di pagamento dell’utente.
 
-Fatturazione: Gli abbonamenti "Lite", "Premium" e "Diamond" sono a pagamento e si basano su un ciclo di fatturazione ricorrente (mensile). Il pagamento verrà addebitato tramite il metodo di pagamento fornito attraverso il nostro gestore di pagamenti, Stripe.
+Fatturazione e Rinnovo:
+Gli abbonamenti sono a rinnovo automatico con cadenza mensile (salvo diversa impostazione disponibile su Google Play). Il rinnovo e la fatturazione vengono eseguiti direttamente da Google, utilizzando il metodo di pagamento associato all’account Google dell’utente.
 
-Rinnovo Automatico: L'abbonamento si rinnoverà automaticamente alla fine di ogni ciclo di fatturazione, a meno che non venga annullato.
+Cancellazione:
+L’utente può annullare in qualsiasi momento il proprio abbonamento tramite il proprio account Google Play, nella sezione “Pagamenti e abbonamenti” > “Abbonamenti”. La cancellazione avrà effetto alla fine del periodo di fatturazione in corso, e l’accesso ai contenuti rimarrà attivo fino alla scadenza già pagata.
 
-Cancellazione: L'utente può annullare il rinnovo automatico del proprio abbonamento in qualsiasi momento dalla sezione "Impostazioni" > "Piani" all'interno dell'app. La cancellazione avrà effetto immediato e senza possibilità di rimnborso per il periodo restante. Se si desidera annullare  il rinnovo automatico contnuando ad usufruire del Servizio per il tempo restante, si prega di inviare apposita richiesta tramite il modulo CONTATTACI all'interno dell'applicazione.
+Rimborsi:
+Eventuali richieste di rimborso devono essere gestite direttamente tramite Google Play, in conformità alle relative politiche di rimborso. elizaHUB non gestisce né approva rimborsi diretti.
 
-Rimborsi: Salvo dove richiesto dalla legge, i pagamenti non sono rimborsabili e non sono previsti rimborsi o crediti per periodi di abbonamento parzialmente utilizzati.
+Modifiche di Prezzo:
+Ci riserviamo il diritto di modificare i prezzi degli abbonamenti. Eventuali variazioni saranno comunicate tramite Google Play con un preavviso ragionevole prima che diventino effettive. L’utente potrà decidere se accettare il nuovo prezzo o annullare l’abbonamento prima del rinnovo.
 
-Modifiche di Prezzo: Ci riserviamo il diritto di modificare le tariffe degli abbonamenti. Eventuali modifiche di prezzo saranno comunicate agli utenti con un preavviso ragionevole prima che diventino effettive.
+Gestione Abbonamenti Attivi:
+Ogni utente può avere un solo abbonamento attivo per account alla volta. Se è attivo un abbonamento (es. Lite) ed è eseguito un upgrade (es. Premium), l’abbonamento precedente verrà automaticamente sostituito dal nuovo, in conformità con le regole di gestione abbonamenti di Google Play.
 
-Tutela dell'Utente: la sottoscrizione di ogni abbonamento è singola, l'utilizzatore non può avere più di un abonamento attivo in contemporanea ad account. Se è attivo un abbonamento (es. Lite), eseguendo l'upgrade (es. Premium), la sottoscrizione precedente decadrà rendendo valido ed effettivo solamente l'ultima sottoscrizione effettuata.
+6. Uso Consentito del Servizio
+   
+L’utente si impegna a non utilizzare il Servizio per scopi illegali o non autorizzati.
+È vietato:
+	•	estrarre, copiare, distribuire o rivendere i dati forniti dall’app;
+	•	tentare di decompilare o decodificare il software contenuto nell’app;
+	•	utilizzare il Servizio in modo da danneggiare, disabilitare o sovraccaricare i nostri server o danneggiare altri utenti.
+ 
+8. Esclusione di Garanzia e Limitazione di Responsabilità
+   
+Il Servizio e le informazioni in esso contenute (inclusi risultati, analisi, statistiche e pronostici) sono forniti “così come sono”, senza garanzie di alcun tipo, esplicite o implicite.
+In particolare, non garantiamo l’accuratezza, completezza o affidabilità dei pronostici, che sono generati da un algoritmo e hanno finalità esclusivamente informative e di intrattenimento. Non ci assumiamo alcuna responsabilità per decisioni o azioni prese dall’utente sulla base delle informazioni contenute nell’app.
+In nessun caso elizaHUB potrà essere ritenuta responsabile per danni diretti, indiretti, incidentali o consequenziali derivanti dall’uso o dall’impossibilità di utilizzare il Servizio.
+Eventuali malfunzionamenti o problemi tecnici devono essere segnalati tramite l’apposito modulo di supporto nella sezione Settings > Account.
+10. Proprietà Intellettuale
+Il Servizio, i suoi contenuti originali, le sue funzionalità e il suo design sono e rimarranno di proprietà esclusiva di elizaHUB.
+Il nome “ElizaScore”, il logo e tutti i marchi correlati sono di nostra proprietà e non possono essere utilizzati senza nostro consenso scritto.
+11. Risoluzione
+Possiamo sospendere o chiudere l’accesso al Servizio immediatamente, senza preavviso, in caso di violazione dei presenti Termini.
+L’utente può chiudere il proprio account in qualsiasi momento tramite la funzione “Cancella Account” nella sezione “Account” delle impostazioni.
+12. Legge Applicabile
+I presenti Termini saranno regolati e interpretati in conformità con le leggi dello Stato Italiano, senza riguardo alle disposizioni sui conflitti di legge.
+Il foro competente per qualsiasi controversia relativa al Servizio è quello di Milano.
 
-4. Uso Consentito del Servizio
+13. Contatti
 
-L'utente si impegna a non utilizzare il Servizio per scopi illegali o non autorizzati.
-
- È vietato:
-
-Estrarre, copiare o distribuire e rivendere i dati forniti dall'app.
-
-Tentare di decompilare o decodificare il software contenuto nell'app.
-
-Utilizzare il Servizio in qualsiasi modo che possa danneggiare, disabilitare o sovraccaricare i nostri server.
-
-5. Esclusione di Garanzia e Limitazione di Responsabilità
-
-Il Servizio e le informazioni in esso contenute (inclusi, ma non solo, risultati, analisi, statistiche e pronostici) sono forniti "così come sono", senza garanzie di alcun tipo, esplicite o implicite.
-
-In particolare, non garantiamo l'accuratezza, la completezza o l'affidabilità dei pronostici forniti. I pronostici sono generati da un algoritmo e sono intesi solo a scopo informativo e di intrattenimento. Non ci assumiamo alcuna responsabilità per decisioni finanziarie o di altro tipo prese dall'utente sulla base delle informazioni contenute nell'app.
-
-In nessun caso [elizaHUB] sarà responsabile per danni diretti, indiretti, incidentali o consequenziali derivanti dall'uso o dall'impossibilità di usare il Servizio. Ogni eventuale disservizio riscontrato va comunicato tempestivamente utilizzando l'apposito modulo di supporto nella sezione Settings > Account.
-
-6. Proprietà Intellettuale
-
-Il Servizio e i suoi contenuti originali, le sue caratteristiche e le sue funzionalità sono e rimarranno di proprietà esclusiva di [elizaHUB]. Il nome "Elizascore", il logo e tutti i marchi correlati sono di nostra proprietà.
-
-7. Risoluzione
-
-Possiamo sospendere o chiudere l'accesso al nostro Servizio immediatamente, senza preavviso, per qualsiasi violazione dei presenti Termini. L'utente può chiudere il proprio account in qualsiasi momento tramite la funzione "Cancella Account" nella sezione "Account" delle impostazioni.
-
-8. Legge Applicabile
-
-I presenti Termini saranno regolati e interpretati in conformità con le leggi dello Stato Italiano, senza riguardo alle disposizioni sui conflitti di legge. Il foro competente per qualsiasi controversia sarà quello di [Milano].
-
-9. Contatti
-
-Per qualsiasi domanda relativa a questi Termini, si prega di contattarci all'indirizzo: [elizabot.info@gmail.com]
+Per qualsiasi domanda relativa a questi Termini, è possibile contattarci all’indirizzo: elizabot.info@gmail.com
