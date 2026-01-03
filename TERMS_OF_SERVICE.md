@@ -62,7 +62,31 @@ Gestione Abbonamenti Attivi:
 Ogni utente può avere un solo abbonamento attivo per account alla volta. Se è attivo un abbonamento (es. Lite) ed è eseguito un upgrade (es. Premium), l’abbonamento precedente verrà automaticamente sostituito dal nuovo, in conformità con le regole di gestione abbonamenti di Google Play.
 
 6. Uso Consentito del Servizio
-   
+
+5. Sistema Referral
+
+ElizaScore offre un sistema di referral (“Programma Inviti”) che consente agli utenti di ottenere punti e vantaggi invitando nuovi utenti a scaricare e utilizzare l’app.
+5.1. Generazione e Validità dei Link
+Ogni utente riceve un link referral univoco. L’uso corretto del link è necessario per l’attribuzione dei punti.  
+Il sistema rileva automaticamente comportamenti sospetti (es. utilizzo da emulatori o account doppi) e può invalidare i punti generati in questi casi.
+
+5.2. Accumulo Punti Referral
+
+I punti vengono assegnati come segue:
+• Abbonamento sottoscritto sull’account personale:
+ • Lite: +3 punti
+ •	Premium: +6 punti
+ •	Diamond: +10 punti
+• Per ogni amico invitato tramite link referral:
+ •	+1 punto dopo 2 giorni di utilizzo effettivo dell’app
+ •	+3 punti se l’amico sottoscrive Lite
+ •	+6 punti se l’amico sottoscrive Premium
+ •	+10 punti se l’amico sottoscrive Diamond
+
+5.3. Monitoraggio e Frode
+Il sistema di referral utilizza meccanismi automatici di rilevamento frode per identificare accessi o installazioni provenienti da emulatori, dispositivi virtuali o comportamenti sospetti.  
+In tali casi, i punti non verranno accreditati e l’account potrà essere sospeso o bannato in base alla gravità dell’infrazione.
+
 L’utente si impegna a non utilizzare il Servizio per scopi illegali o non autorizzati.
 È vietato:
 	•	estrarre, copiare, distribuire o rivendere i dati forniti dall’app;
