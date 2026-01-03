@@ -32,6 +32,15 @@ L’utente si impegna a:
 	•	notificarci immediatamente qualsiasi violazione della sicurezza o uso non autorizzato del proprio account.
 Ci riserviamo il diritto di sospendere o chiudere account che violino i presenti Termini.
 
+3.1. Sospensione e Ban dell’Account
+Ci riserviamo il diritto di sospendere temporaneamente o definitivamente l’accesso al Servizio in caso di:
+•	uso improprio, fraudolento o contrario allo scopo del Servizio;
+•	creazione di account multipli per ottenere vantaggi indebiti (inclusi punti referral);
+•	utilizzo del Servizio tramite emulatori, VPN fraudolente o strumenti che mascherano l’identità o la natura del dispositivo;
+•	manipolazione dei sistemi di punteggio, referral o abbonamenti.
+Il rilevamento di attività anomale o fraudolente può comportare automaticamente il ban dell’account e l’annullamento di punti, vantaggi o crediti associati. Tali decisioni possono essere automatizzate.
+L'utente, in caso di sospensione dell'account, può richiedere una revisione manuale via mail a elizabot.info@gmail.com
+
 4. Abbonamenti e Pagamenti
    
 Gestione degli Acquisti:
