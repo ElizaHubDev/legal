@@ -61,8 +61,6 @@ Ci riserviamo il diritto di modificare i prezzi degli abbonamenti. Eventuali var
 Gestione Abbonamenti Attivi:
 Ogni utente può avere un solo abbonamento attivo per account alla volta. Se è attivo un abbonamento (es. Lite) ed è eseguito un upgrade (es. Premium), l’abbonamento precedente verrà automaticamente sostituito dal nuovo, in conformità con le regole di gestione abbonamenti di Google Play.
 
-6. Uso Consentito del Servizio
-
 5. Sistema Referral
 
 ElizaScore offre un sistema di referral (“Programma Inviti”) che consente agli utenti di ottenere punti e vantaggi invitando nuovi utenti a scaricare e utilizzare l’app.
@@ -86,6 +84,8 @@ I punti vengono assegnati come segue:
 5.3. Monitoraggio e Frode
 Il sistema di referral utilizza meccanismi automatici di rilevamento frode per identificare accessi o installazioni provenienti da emulatori, dispositivi virtuali o comportamenti sospetti.  
 In tali casi, i punti non verranno accreditati e l’account potrà essere sospeso o bannato in base alla gravità dell’infrazione.
+
+6. Uso Consentito del Servizio
 
 L’utente si impegna a non utilizzare il Servizio per scopi illegali o non autorizzati.
 È vietato:
